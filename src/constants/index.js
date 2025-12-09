@@ -93,7 +93,7 @@ export const siteText = [
     text: ["make", "site compliant with", "next.js"],
     title: "넥스트를 이용한 사이트 제작",
     code: "https://github.com/BloomNyx/atelier.git",
-    view: "https://port2023-next.netlify.app",
+    view: "https://bloomnyx.github.io/atelier/",
     info: [
       "site coding",
       "production period : two days",
