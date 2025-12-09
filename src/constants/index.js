@@ -82,7 +82,7 @@ export const siteText = [
     text: ["make", "site compliant with", "vue.js"],
     title: "뷰를 이용한 사이트 제작",
     code: "https://github.com/BloomNyx/Raviebelle.git",
-    view: "https://port2023-vue.netlify.app",
+    view: "https://bloomnyx.github.io/Raviebelle/",
     info: [
       "site coding",
       "production period : two days",
