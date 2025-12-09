@@ -1,4 +1,4 @@
-import about from "../assets/img/about.jpg";
+import about from "../assets/img/about (1).jpg";
 import port01 from "../assets/img/port01.jpg";
 import port02 from "../assets/img/port02.jpg";
 import port03 from "../assets/img/port03.jpg";
